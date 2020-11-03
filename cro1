@@ -1,0 +1,249 @@
+#EXTM3U
+#EXTINF:-1,24 SATA
+http://83.139.104.105/Content/HLS/Live/Channel(24_sata)/Stream(03)/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://83.139.104.105/Content/HLS/Live/Channel(al_jazeera_balkans)/Stream(03)/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://83.139.104.105/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="Animal Planet" tvg-logo="8547509.png", Animal Planet sd
+http://202.75.23.34:1400/live/ch31/03.m3u8
+#EXTINF:-1,BALKANIKA
+http://91.187.113.203:10026
+#EXTINF:-1,B92
+http://91.187.113.203:10101
+#EXTINF:-1,BOEC
+http://78.107.23.217:4022/udp/233.33.210.145:5050
+#EXTINF:-1,Caricin Grad – Lebane RS
+http://91.150.78.249:8080
+#EXTINF:-1,CBS REALITY
+http://83.139.104.105/Content/HLS/Live/Channel(cbs_reality)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR
+http://83.139.104.105/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://83.139.104.105/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://83.139.104.105/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://83.139.104.105/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.105/Content/HLS/Live/Channel(cmc)/Stream(03)/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://83.139.104.105/Content/HLS/Live/Channel(discovery_channel)/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="8279241.png", Discovery Science
+http://202.75.23.34/live/ch33/03.m3u8
+#EXTINF:0,DM SAT
+http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/playlist.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.105/Content/HLS/Live/Channel(DMC)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://83.139.104.105/Content/HLS/Live/Channel(eurosport)/Stream(03)/index.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://83.139.104.105/Content/HLS/Live/Channel(eurosport_2)/Stream(03)/index.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://83.139.104.105/Content/HLS/Live/Channel(extreme_sports)/Stream(03)/index.m3u8
+#EXTINF:-1,FASHION
+http://83.139.104.105/Content/HLS/Live/Channel(fashion_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://83.139.104.105/Content/HLS/Live/Channel(fight_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,FightBox
+http://stream1.zoovision.com//livespi/fightbox/HasBahCa.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://83.139.104.105/Content/HLS/Live/Channel(food_network)/Stream(03)/index.m3u8
+#EXTINF:-1,FULL TV
+http://83.139.104.105/Content/HLS/Live/Channel(fullTV)/Stream(03)/index.m3u8
+#EXTINF:0,FTV 
+http://144.76.80.80:10300/4en5eauew 
+#EXTINF:-1,Serbia_Croatia:GLAS PLAVA
+http://4.31.30.135:1935/st3fstv/15ios_GLASPLAVA_8877987/HasBahCa.m3u8
+#EXTINF:0,GRAND FOLK 
+rtmp://85.114.139.35:1935/k6/grand.stream
+#EXTINF:-1,GINX
+http://83.139.104.105/Content/HLS/Live/Channel(ginx)/Stream(03)/index.m3u8
+#EXTINF:0,Hema
+mmsh://77.238.209.50:1234
+#EXTINF:-1,HRT 1
+http://83.139.104.105/Content/HLS/Live/Channel(HTV1)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.105/Content/HLS/Live/Channel(HTV2)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.105/Content/HLS/Live/Channel(HTV3)/Stream(03)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.105/Content/HLS/Live/Channel(HTV4)/Stream(03)/index.m3u8
+#EXTINF:-1,JADRAN TV
+http://83.139.104.105/Content/HLS/Live/Channel(tv_jadran)/Stream(03)/index.m3u8
+#EXTINF:-1,JUGOTON
+http://83.139.104.105/Content/HLS/Live/Channel(jugoton)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL 5
+http://83.139.104.105/Content/HLS/Live/Channel(kanal_5)/Stream(03)/index.m3u8
+#EXTINF:-1,KANAL RI
+http://83.139.104.105/Content/HLS/Live/Channel(KanalRI)/Stream(03)/index.m3u8
+#EXTINF:0,KCN1
+rtsp://178.79.42.18:554/live.sdp
+#EXTINF:-1,KINO TV
+http://83.139.104.105/Content/HLS/Live/Channel(kino_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,KIM
+http://84.22.33.3:5500
+#EXTINF:-1,KLASIK TV
+http://83.139.104.105/Content/HLS/Live/Channel(klasik_tv)/Stream(03)/index.m3u8
+#EXTINF:0,Lorist TV_Novi_Sad
+http://31.220.4.139:8080/live/LoristTV.m3u8
+#EXTINF:-1,MEDIASET IT
+http://83.139.104.105/Content/HLS/Live/Channel(mediaset_italia)/Stream(03)/index.m3u8
+#EXTINF:-1,MEDIATRAVEL
+http://83.139.104.105/Content/HLS/Live/Channel(mediatravel)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ST
+http://83.139.104.105/Content/HLS/Live/Channel(mrezaST)/Stream(03)/index.m3u8
+#EXTINF:-1,MREZA ZG
+http://83.139.104.105/Content/HLS/Live/Channel(mrezaZG)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV
+http://83.139.104.105/Content/HLS/Live/Channel(mtv)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV Adria
+http://83.139.104.123/content/hls/live/channel(mtv)/stream(01)/index.m3u8
+#EXTINF:-1,MTV MUSIC
+http://83.139.104.105/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:-1,MTV Music
+http://83.139.104.123/content/hls/live/channel(mtv_music)/stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="Nat Geo HD"  tvg-name="National Geographic" tvg-logo="2204956.png", National Geographic HD
+http://202.75.23.35/live/ch38/03.m3u8
+#EXTINF:-1,NARODNA TV
+http://83.139.104.105/Content/HLS/Live/Channel(narodna_tv)/Stream(03)/index.m3u8
+#EXTINF:0,Net Tv Info
+http://5.153.25.7:8082/stream/?channel=nettvinfo&stream=1mb
+#EXTINF:-1,Nova Hr
+http://146.0.40.73:8080/ipvt_001
+#EXTINF:-1,NOVA TV PULA
+http://83.139.104.105/Content/HLS/Live/Channel(tv_nova)/Stream(03)/index.m3u8
+#EXTINF:0,Novosadska TV_VLC
+mms://176.106.121.32:8080/
+#EXTINF:0,Novi Sad 1_VLC_long buffers
+rtsp://212.200.255.151/rtv1
+#EXTINF:0,Novi Sad 2_VLC_long buffers
+rtsp://212.200.255.151/rtv2
+#EXTINF:0,NTV Jata_VLC
+rtmp://109.175.31.2/live/ntvjata.stream
+#EXTINF:0,Nis_lyngsat-stream_VLC
+rtmp://92.60.237.21:1935/live/livestream
+#EXTINF:0,OBN
+http://4.31.30.135:1935/st3fstv/3ios_OBN_1237865/playlist.m3u8
+#EXTINF:-1,OK BAMBINO
+http://83.139.104.105/Content/HLS/Live/Channel(ok_bambino)/Stream(03)/index.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://83.139.104.105/Content/HLS/Live/Channel(orlando_kids)/Stream(03)/index.m3u8
+#EXTINF:-1,OSJECKA
+http://83.139.104.105/Content/HLS/Live/Channel(osjecka_tv)/Stream(03)/index.m3u8
+#EXTINF:0,Panonija_Novi Sad_VLC
+http://212.200.238.110:8080
+#EXTINF:-1,Party TV
+rtmp://149.11.34.6/live/partytv.stream
+#EXTINF:-1,Pink
+http://on108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink 2
+http://on108.setplex.net/fastv_2psh/Pink2global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink 3
+http://on108.setplex.net/fastv_2psh/Pink3global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink Action
+http://on108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink Action 2
+http://on108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Fashion
+http://on108.setplex.net/fastv_2psh/PinkFashionglobal_rly_greece_103/HasBahCa.m3u8
+#EXTINF:-1,Pink Folk 1
+http://on108.setplex.net/fastv_2psh/PinkFolk1global_rly_greece_103/hasbahca.m3u8
+#EXTINF:0,Pink Folk 2
+http://on108.setplex.net/fastv_2psh/PinkFolk2global_rly_greece_103/playlist.m3u8
+#EXTINF:0,Pink Global
+http://on108.setplex.net/fastv_2psh/Pinkglobal_rly_greece_109/playlist.m3u8
+#EXTINF:-1,Pink Horror
+http://on108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Kids
+http://on108.setplex.net/fastv_2psh/PinkKidsglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Live
+http://on108.setplex.net/fastv_2psh/PinkLiveglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink M
+http://on108.setplex.net/fastv_2psh/PinkMglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:0,Pink Movies
+http://on108.setplex.net/fastv_2psh/PinkMoviesglobal_rly_greece_109/playlist.m3u8
+#EXTINF:0,Pink Movies 2
+http://on108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink Movies 3
+http://on108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,Pink Music
+http://on108.setplex.net/fastv_2psh/PinkMusicglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Music 2
+http://on108.setplex.net/fastv_2psh/PinkMusic2global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Music 3
+http://on108.setplex.net/fastv_2psh/PinkMusic3global_rly_greece_103/HasBahCa.m3u8
+#EXTINF:-1,Pink Music 4
+http://on108.setplex.net/fastv_2psh/PinkMusic4global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Music 5
+http://on108.setplex.net/fastv_2psh/PinkMusic5global_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Pedia
+http://on108.setplex.net/fastv_2psh/PinkPediaglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Premium
+http://on108.setplex.net/fastv_2psh/PinkPremiumglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:0,PINK PREMIUM
+http://tinyurl.com/hack-sat-com-PINK-PREMIUM1 
+#EXTINF:-1,Pink Reality
+http://on108.setplex.net/fastv_2psh/PinkRealityglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink Soap
+http://on108.setplex.net/fastv_2psh/PinkSoapglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,Pink World
+http://on108.setplex.net/fastv_2psh/PinkWorldglobal_rly_greece_109/hasbahca.m3u8
+#EXTINF:-1,pink Zabava
+http://on108.setplex.net/fastv_2psh/PinkZabavaglobal_rly_greece_103/hasbahca.m3u8
+#EXTINF:-1,PRVA
+http://91.187.113.203:10050
+#EXTINF:-1,RTB TV
+http://83.139.104.105/Content/HLS/Live/Channel(rtb_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL
+http://83.139.104.105/Content/HLS/Live/Channel(rtl_televizija)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL 2
+http://83.139.104.105/Content/HLS/Live/Channel(rtl_2)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://83.139.104.105/Content/HLS/Live/Channel(rtl_kockica)/Stream(03)/index.m3u8
+#EXTINF:-1,RTL PLUS
+http://83.139.104.105/Content/HLS/Live/Channel(rtlplus)/Stream(03)/index.m3u8
+#EXTINF:0,RTS1_MX
+http://4.31.30.135:1935/st3fstv/10ios_RTS1_4245875/halilou.m3u8
+#EXTINF:-1,RTS2
+http://91.187.113.203:10041
+#EXTINF:0,Rts Sat_VLC
+rtsp://rts.videostreaming.rs/rts/video
+#EXTINF:-1,SBTV
+http://83.139.104.105/Content/HLS/Live/Channel(sbtv)/Stream(03)/index.m3u8
+#EXTINF:-1,Slager_TV_CeskaSlovenskaVLC
+http://92.62.234.221:10000
+#EXTINF:0,SK2_EX-yu
+http://91.187.113.203:10030/
+#EXTINF:-1,SPORTSKA TV
+http://83.139.104.105/Content/HLS/Live/Channel(sportska_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,SRCE TV
+http://83.139.104.105/Content/HLS/Live/Channel(srce_tv)/Stream(03)/index.m3u8
+#EXTINF:-1,STUDIO B_Serbia mms
+mms://195.252.114.172/studiob
+#EXTINF:-1,Serbia_Croatia:SVETPLUS
+http://4.31.30.135:1935/st3fstv/19ios_SVETPLUS_2547871/HasBahCa.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://83.139.104.105/Content/HLS/Live/Channel(travel_channel)/Stream(03)/index.m3u8
+#EXTINF:-1,TLC
+http://83.139.104.105/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+#EXTINF:-1,VH1 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=437&lan=2&rows=40&f=.m3u8
+#EXTINF:-1,Serbia_Croatia:TV DUGA
+http://4.31.30.135:1935/st3fstv/12ios_TVDUGA_2548745/HasBahCa.m3u8
+#EXTINF:-1,TV ISTRA
+http://83.139.104.105/Content/HLS/Live/Channel(tv_istra)/Stream(03)/index.m3u8
+#EXTINF:-1,TVCG MONTENEGRO mms
+mms://195.252.114.172/tvcg
+#EXTINF:-1,TV MITROVICA
+http://84.22.33.3:9020
+#EXTINF:-1,Serbia_Croatia:VALENTINO
+http://4.31.30.135:1935/st3fstv/20ios_VALENTINO_4584512/HasBahCa.m3u8
+#EXTINF:-1,VARAZDISKA TV
+http://83.139.104.105/Content/HLS/Live/Channel(VTV_varazdin)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://83.139.104.105/Content/HLS/Live/Channel(viasat_explore)/Stream(03)/index.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://83.139.104.105/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+#EXTINF:-1,ZDRAVA TV
+http://83.139.104.105/Content/HLS/Live/Channel(ZDRAVA_TV-7)/Stream(03)/index.m3u8
