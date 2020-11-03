@@ -1,17 +1,371 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",& PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",&FLIX HD
-http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="UNSORTED" tvg-url="" group-title="",&Flix HD
-http://103.214.202.218:8081/live/andflix-29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",&PICTURES HD
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="+24" tvg-language="" tvg-logo="https://graph.facebook.com/24htve/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",+24
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="+24" tvg-language="" tvg-logo="https://graph.facebook.com/24htve/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url="" group-title="",+24
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bJIkebD.png" tvg-country="KZ" tvg-url="" group-title="",1 Kanal Evraziya
-https://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url="" group-title="Music",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1,EX-YU_BIH: 101
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13575
+#EXTINF:-1,EX-YU_BIH: A1 EXKLUZIV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13574
+#EXTINF:-1,EX-YU_BIH: A1 ISLAM
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13573
+#EXTINF:-1,EX-YU_BIH: A1 SPORT
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13572
+#EXTINF:-1,EX-YU_BIH: AL JAZEERA BALKAN
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13571
+#EXTINF:-1,EX-YU_BIH: ATV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13570
+#EXTINF:-1,EX-YU_BIH: BHTV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13569
+#EXTINF:-1,EX-YU_BIH: BN LIVE
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13568
+#EXTINF:-1,EX-YU_BIH: BN TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13567
+#EXTINF:-1,EX-YU_BIH: BOSNA TV1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13566
+#EXTINF:-1,EX-YU_BIH: FACE TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13565
+#EXTINF:-1,EX-YU_BIH: FEDERALNA TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13564
+#EXTINF:-1,EX-YU_BIH: GLAS DRINE TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13563
+#EXTINF:-1,EX-YU_BIH: HAYAT
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13562
+#EXTINF:-1,EX-YU_BIH: HAYATOVCI
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13561
+#EXTINF:-1,EX-YU_BIH: MEKA TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13560
+#EXTINF:-1,EX-YU_BIH: N1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13559
+#EXTINF:-1,EX-YU_BIH: OBN
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13558
+#EXTINF:-1,EX-YU_BIH: OTV VALENTINO
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13557
+#EXTINF:-1,EX-YU_BIH: RTRS
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13556
+#EXTINF:-1,EX-YU_BIH: RTRS Plus
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13555
+#EXTINF:-1,EX-YU_BIH: TK TUZLA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13554
+#EXTINF:-1,EX-YU_BIH: TV 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13553
+#EXTINF:-1,EX-YU_BIH: TV 5 Islam
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13552
+#EXTINF:-1,EX-YU_BIH: TV 6
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13551
+#EXTINF:-1,EX-YU_BIH: TV A1 BALKAN
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13550
+#EXTINF:-1,EX-YU_BIH: TV Sarajevo
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13549
+#EXTINF:-1,EX-YU_BIH: TV USK
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13548
+#EXTINF:-1,EX-YU_CR: 24 KITCHEN
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13547
+#EXTINF:-1,EX-YU_CR: ANIMAL PLANET
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13546
+#EXTINF:-1,EX-YU_CR: Arena Sport 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13545
+#EXTINF:-1,EX-YU_CR: Arena Sport 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13544
+#EXTINF:-1,EX-YU_CR: Arena Sport 3
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13543
+#EXTINF:-1,EX-YU_CR: Arena Sport 4
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13542
+#EXTINF:-1,EX-YU_CR: Arena Sport 5
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13541
+#EXTINF:-1,EX-YU_CR: Arena Sport 6
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13540
+#EXTINF:-1,EX-YU_CR: BANOVINA TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13539
+#EXTINF:-1,EX-YU_CR: CAPITAL
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13538
+#EXTINF:-1,EX-YU_CR: DOMA TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13537
+#EXTINF:-1,EX-YU_CR: HBO
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13536
+#EXTINF:-1,EX-YU_CR: HBO 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13535
+#EXTINF:-1,EX-YU_CR: HISTORY CHANNEL
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13534
+#EXTINF:-1,EX-YU_CR: HRT 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13533
+#EXTINF:-1,EX-YU_CR: HRT 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13532
+#EXTINF:-1,EX-YU_CR: HRT 3
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13531
+#EXTINF:-1,EX-YU_CR: HRT 4
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13530
+#EXTINF:-1,EX-YU_CR: KLASIK
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13529
+#EXTINF:-1,EX-YU_CR: NATIONAL GEOGRAPHIC
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13528
+#EXTINF:-1,EX-YU_CR: NOVA TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13527
+#EXTINF:-1,EX-YU_CR: RTL 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13526
+#EXTINF:-1,EX-YU_CR: RTL 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13525
+#EXTINF:-1,EX-YU_CR: RTL CRIME
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13524
+#EXTINF:-1,EX-YU_CR: RTL KOCKICA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13523
+#EXTINF:-1,EX-YU_CR: RTL LIVING
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13522
+#EXTINF:-1,EX-YU_CR: SLAVONSKA TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13521
+#EXTINF:-1,EX-YU_CR: Sport Klub 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13520
+#EXTINF:-1,EX-YU_CR: Sport Klub 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13519
+#EXTINF:-1,EX-YU_CR: Sport Klub 3
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13518
+#EXTINF:-1,EX-YU_CR: SRCE TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13517
+#EXTINF:-1,EX-YU_CR: STUDENT TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13516
+#EXTINF:-1,EX-YU_CR: Z1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13515
+#EXTINF:-1,EX-YU_MK: 24 Vesti
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13514
+#EXTINF:-1,EX-YU_MK: Alfa
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13513
+#EXTINF:-1,EX-YU_MK: FOLK MK
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13512
+#EXTINF:-1,EX-YU_MK: HOBA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13511
+#EXTINF:-1,EX-YU_MK: Hugo 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13510
+#EXTINF:-1,EX-YU_MK: Hugo 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13509
+#EXTINF:-1,EX-YU_MK: IN TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13508
+#EXTINF:-1,EX-YU_MK: KANAL 5
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13507
+#EXTINF:-1,EX-YU_MK: Kanal 5 Plus
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13506
+#EXTINF:-1,EX-YU_MK: MEGA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13505
+#EXTINF:-1,EX-YU_MK: MPT 1 (MRT)
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13504
+#EXTINF:-1,EX-YU_MK: MPT 2 (MRT)
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13503
+#EXTINF:-1,EX-YU_MK: MPT 3 (MRT)
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13502
+#EXTINF:-1,EX-YU_MK: MTM
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13501
+#EXTINF:-1,EX-YU_MK: NASA TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13500
+#EXTINF:-1,EX-YU_MK: Sitel 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13499
+#EXTINF:-1,EX-YU_MK: Sitel 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13498
+#EXTINF:-1,EX-YU_MK: Sitel 3
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13497
+#EXTINF:-1,EX-YU_MK: SKY FOLK
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13496
+#EXTINF:-1,EX-YU_MK: Televizija 5 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13495
+#EXTINF:-1,EX-YU_MK: Telma
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13494
+#EXTINF:-1,EX-YU_MK: TV  Kumanovo
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13492
+#EXTINF:-1,EX-YU_MK: TV 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13491
+#EXTINF:-1,EX-YU_MK: TV Hugo
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13490
+#EXTINF:-1,EX-YU_MK: TV Igman
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13489
+#EXTINF:-1,EX-YU_MK: TV Kanal 21
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13488
+#EXTINF:-1,EX-YU_MK: TV M3 Music
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13487
+#EXTINF:-1,EX-YU_MK: TV shenja
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13486
+#EXTINF:-1,EX-YU_SLO: GTV.SI
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13485
+#EXTINF:-1,EX-YU_SLO: KANAL A HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13484
+#EXTINF:-1,EX-YU_SLO: PLANET TV HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13483
+#EXTINF:-1,EX-YU_SLO: POP TV HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13482
+#EXTINF:-1,EX-YU_SLO: SLO 1 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13481
+#EXTINF:-1,EX-YU_SLO: SLO 2 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13480
+#EXTINF:-1,EX-YU_SLO: SPORT TV 1 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13479
+#EXTINF:-1,EX-YU_SLO: SPORT TV 2 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13478
+#EXTINF:-1,EX-YU_SLO: SPORT TV 3 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13477
+#EXTINF:-1,EX-YU_SLO: Sport1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13476
+#EXTINF:-1,EX-YU_SR: Arena Sport 1 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13475
+#EXTINF:-1,EX-YU_SR: Arena Sport 2 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13474
+#EXTINF:-1,EX-YU_SR: Arena Sport 3 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13473
+#EXTINF:-1,EX-YU_SR: Arena Sport 4 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13472
+#EXTINF:-1,EX-YU_SR: Arena Sport 5 hd
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13471
+#EXTINF:-1,EX-YU_SR: B92
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13470
+#EXTINF:-1,EX-YU_SR: Balkanika Music TV HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13469
+#EXTINF:-1,EX-YU_SR: CINEMAX 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13468
+#EXTINF:-1,EX-YU_SR: CINEMAX 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13467
+#EXTINF:-1,EX-YU_SR: CINESTAR PREMIERE 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13466
+#EXTINF:-1,EX-YU_SR: CINESTAR PREMIERE 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13465
+#EXTINF:-1,EX-YU_SR: CINESTAR TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13464
+#EXTINF:-1,EX-YU_SR: CINESTAR TV ACTION
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13463
+#EXTINF:-1,EX-YU_SR: CMC
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13462
+#EXTINF:-1,EX-YU_SR: DISCOVERY CHANNEL
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13461
+#EXTINF:-1,EX-YU_SR: DM sat
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13460
+#EXTINF:-1,EX-YU_SR: E!
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13459
+#EXTINF:-1,EX-YU_SR: EUROSPORT 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13458
+#EXTINF:-1,EX-YU_SR: EUROSPORT 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13457
+#EXTINF:-1,EX-YU_SR: FILMBOX EXTRA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13456
+#EXTINF:-1,EX-YU_SR: FOX CRIME
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13455
+#EXTINF:-1,EX-YU_SR: FOX LIFE
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13454
+#EXTINF:-1,EX-YU_SR: FOX MOVIES
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13453
+#EXTINF:-1,EX-YU_SR: GRAND 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13452
+#EXTINF:-1,EX-YU_SR: GRAND TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13451
+#EXTINF:-1,EX-YU_SR: HAPPY TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13450
+#EXTINF:-1,EX-YU_SR: HBO ADRIA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13449
+#EXTINF:-1,EX-YU_SR: HISTORY CHANNEL
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13448
+#EXTINF:-1,EX-YU_SR: ID
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13447
+#EXTINF:-1,EX-YU_SR: Jugoton TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13446
+#EXTINF:-1,EX-YU_SR: KCN 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13445
+#EXTINF:-1,EX-YU_SR: KCN 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13444
+#EXTINF:-1,EX-YU_SR: KCN 3
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13443
+#EXTINF:-1,EX-YU_SR: LOV I RIBOLOV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13442
+#EXTINF:-1,EX-YU_SR: NATIONAL GEOGRAPHIC
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13441
+#EXTINF:-1,EX-YU_SR: NOVA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13440
+#EXTINF:-1,EX-YU_SR: OTV  VALENTINO
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13439
+#EXTINF:-1,EX-YU_SR: PINK
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13438
+#EXTINF:-1,EX-YU_SR: PINK 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13437
+#EXTINF:-1,EX-YU_SR: PINK 3 INFO
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13436
+#EXTINF:-1,EX-YU_SR: PINK ACTION
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13435
+#EXTINF:-1,EX-YU_SR: PINK BH (BIH)
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13434
+#EXTINF:-1,EX-YU_SR: PINK CLASSIC
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13433
+#EXTINF:-1,EX-YU_SR: PINK COMEDY
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13432
+#EXTINF:-1,EX-YU_SR: PINK CRIME&MYSTERY
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13431
+#EXTINF:-1,EX-YU_SR: PINK EXTRA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13430
+#EXTINF:-1,EX-YU_SR: PINK FOLK 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13428
+#EXTINF:-1,EX-YU_SR: PINK FOLK 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13427
+#EXTINF:-1,EX-YU_SR: Pink Hits2 (Music)
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13426
+#EXTINF:-1,EX-YU_SR: PINK HORROR
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13425
+#EXTINF:-1,EX-YU_SR: PINK KIDS
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13424
+#EXTINF:-1,EX-YU_SR: PINK KUVAR
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13423
+#EXTINF:-1,EX-YU_SR: PINK M
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13422
+#EXTINF:-1,EX-YU_SR: Pink Music 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13421
+#EXTINF:-1,EX-YU_SR: Pink Music 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13420
+#EXTINF:-1,EX-YU_SR: Pink Padia
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13419
+#EXTINF:-1,EX-YU_SR: PINK PARADA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13418
+#EXTINF:-1,EX-YU_SR: PINK PLUS
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13417
+#EXTINF:-1,EX-YU_SR: PINK PREMIUM
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13416
+#EXTINF:-1,EX-YU_SR: PINK REALITY
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13415
+#EXTINF:-1,EX-YU_SR: PINK ROMANCE
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13414
+#EXTINF:-1,EX-YU_SR: PINK SCI-FI&FANTASY
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13413
+#EXTINF:-1,EX-YU_SR: PINK SERIJE
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13412
+#EXTINF:-1,EX-YU_SR: Pink Show
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13411
+#EXTINF:-1,EX-YU_SR: PINK SI
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13410
+#EXTINF:-1,EX-YU_SR: PINK SOAP
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13409
+#EXTINF:-1,EX-YU_SR: PINK THRILLER
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13408
+#EXTINF:-1,EX-YU_SR: PINK WESTERN
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13407
+#EXTINF:-1,EX-YU_SR: PINK ZABAVA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13406
+#EXTINF:-1,EX-YU_SR: PRVA
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13405
+#EXTINF:-1,EX-YU_SR: PRVA MAX
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13404
+#EXTINF:-1,EX-YU_SR: PRVA PLUS
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13403
+#EXTINF:-1,EX-YU_SR: PRVA WORLD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13402
+#EXTINF:-1,EX-YU_SR: RTRS
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13401
+#EXTINF:-1,EX-YU_SR: RTS 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13400
+#EXTINF:-1,EX-YU_SR: RTS 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13399
+#EXTINF:-1,EX-YU_SR: RTS 3
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13398
+#EXTINF:-1,EX-YU_SR: Sandzak TV
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13397
+#EXTINF:-1,EX-YU_SR: Sport Klub 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13396
+#EXTINF:-1,EX-YU_SR: Sport Klub 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13395
+#EXTINF:-1,EX-YU_SR: Sport Klub 3
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13394
+#EXTINF:-1,EX-YU_SR: Sport Klub 4
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13393
+#EXTINF:-1,EX-YU_SR: Sport news
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13392
+#EXTINF:-1,EX-YU_SR: Super Sport 1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13391
+#EXTINF:-1,EX-YU_SR: Super Sport 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13390
+#EXTINF:-1,EX-YU_SR: TLC!
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/13389
