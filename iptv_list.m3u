@@ -1,1 +1,308 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-language="Bosnian" tvg-logo="https://en.wikipedia.org/wiki/Al_Jazeera_Balkans#/media/File:Al_Jazeera_Balkans.pn" tvg-country="BA" tvg-url="" group-title="BiH",Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/fdd1oQP.png" tvg-country="BA" tvg-url="" group-title="BiH",B1 TV
+http://wowza.bihnet.net:88/hls/b1-live.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/AD3Ak7T.png" tvg-country="BA" tvg-url="" group-title="BiH",Hema Televizija
+http://77.238.209.50:8080/hema1
+#EXTINF:-1 tvg-id="4" tvg-name="" tvg-language="Bosnian" tvg-logo="https://i.imgur.com/hdwjkYa.png" tvg-country="BA" tvg-url="" group-title="BiH",Televizija 5
+http://37.59.21.217:8809/live/tv5web.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Serbian" tvg-logo="https://i.imgur.com/0RcNFXt.jpg" tvg-country="RS" tvg-url="" group-title="Srbija",TV Duga Plus
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Hram-EXYU" tvg-name="TV Hram-EXYU" tvg-language="Serbian" tvg-logo="https://i.imgur.com/Msxeu2S.png" tvg-country="RS" tvg-url="" group-title="Srbija",TV Hram
+http://178.253.194.75:1935/live/hram.stream/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/k9M5ydW.png" tvg-country="CA" tvg-url="" group-title="Canada",5AAB TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/XgejLKw.png" tvg-country="CA" tvg-url="" group-title="Canada",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" tvg-country="CA" tvg-url="" group-title="Canada",Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" tvg-country="CA" tvg-url="" group-title="Canada",Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" tvg-country="CA" tvg-url="" group-title="Canada",Canal Savoir
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wwmapsS.png" tvg-country="CA" tvg-url="" group-title="Canada",CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/HRqcIcR.png" tvg-country="CA" tvg-url="" group-title="Canada",EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/bcHP3Vg.png" tvg-country="CA" tvg-url="" group-title="Canada",Global British Columbia
+https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ppMNSKT.png" tvg-country="CA" tvg-url="" group-title="Canada",Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/7R10c5i.png" tvg-country="CA" tvg-url="" group-title="Canada",Global Edmonton
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/mhhVQE6.png" tvg-country="CA" tvg-url="" group-title="Canada",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wlqYdqN.png" tvg-country="CA" tvg-url="" group-title="Canada",Global Toronto
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/4gL9GEa.png" tvg-country="CA" tvg-url="" group-title="Canada",Legislative Assembly of Ontario
+http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" tvg-country="CA" tvg-url="" group-title="Canada",NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="CA" tvg-url="" group-title="Canada",ONE STUDIO
+https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" tvg-country="CA" tvg-url="" group-title="Canada",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/LdGWsGj.png" tvg-country="CA" tvg-url="" group-title="Canada",Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rEKsf20.jpg" tvg-country="CA" tvg-url="" group-title="Canada",Prime Canada TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" tvg-country="CA" tvg-url="" group-title="Canada",QVTV
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/PkWndsv.png" tvg-country="CA" tvg-url="" group-title="Canada",Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/nQVDOVb.png" tvg-country="CH" tvg-url="" group-title="Swiss",Canal 9
+https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eQ8xHK9.jpg" tvg-country="CH" tvg-url="" group-title="Swiss",Canal Alpha Jura
+https://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9dQuwCc.jpg" tvg-country="CH" tvg-url="" group-title="Swiss",Die Neue Zeit
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/3sWAEuY.jpg" tvg-country="CH" tvg-url="" group-title="Swiss",Dieu TV
+https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/720p-playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/3hNjWPu.png" tvg-country="CH" tvg-url="" group-title="Swiss",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/nQVDOVb.png" tvg-country="CH" tvg-url="" group-title="Swiss",Kanal 9
+https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/JiAnDPu.png" tvg-country="CH" tvg-url="" group-title="Swiss",La Tele
+https://livevideo.infomaniak.com/streaming/livecast/latele/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/UE1E3uH.png" tvg-country="CH" tvg-url="" group-title="Swiss",LFM TV
+https://edge3.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/YEQ957V.png" tvg-country="CH" tvg-url="" group-title="Swiss",One TV
+https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/sxrRSXb.jpg" tvg-country="CH" tvg-url="" group-title="Swiss",QS24
+http://62.113.221.4/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/lQzG2lg.png" tvg-country="CH" tvg-url="" group-title="Swiss",Radio Pilatus TV
+https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/G030MZb.png" tvg-country="CH" tvg-url="" group-title="Swiss",Rouge TV
+https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9fAlB8K.png" tvg-country="CH" tvg-url="" group-title="Swiss",RTS Couleur 3
+https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
+#EXTINF:-1 tvg-id="Tele M1 HD CH" tvg-name="Tele M1 HD CH" tvg-language="English" tvg-logo="https://i.imgur.com/RqKjRTP.png" tvg-country="CH" tvg-url="" group-title="Swiss",Tele M1 HD
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-country="CH" tvg-url="" group-title="Swiss",TeleBarn
+https://cdnapi.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_0mc3z57p/format/applehttp/protocol/http/uiConfId/26605911/a.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XZ5i8HF.jpg" tvg-country="CH" tvg-url="" group-title="Swiss",TeleBarn
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index.m3u8
+#EXTINF:-1 tvg-id="Telebasel HD CH" tvg-name="Telebasel HD CH" tvg-language="English" tvg-logo="https://i.imgur.com/mMXYqtm.png" tvg-country="CH" tvg-url="" group-title="Swiss",Telebasel HD
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/bPpWJj2.png" tvg-country="CH" tvg-url="" group-title="Swiss",TeleBielingue
+https://edge4.vedge.infomaniak.com/livecast/telebielinguech/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="INT" tvg-url="" group-title="International",24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-country="INT" tvg-url="" group-title="International",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" tvg-country="INT" tvg-url="" group-title="Music",DJing
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KJm7i78.png" tvg-country="INT" tvg-url="" group-title="XXX",Jasmin TV
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",MILF HD
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" tvg-country="INT" tvg-url="" group-title="Sport",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 1
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 10
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 11
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 12
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 13
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 14
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 15
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 16
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 2
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 3
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 4
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 5
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 6
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 7
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",RedTraffic 8
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/826gz7r.jpg" tvg-country="INT" tvg-url="" group-title="International",Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5uIXfol.jpg" tvg-country="INT" tvg-url="" group-title="International",The Boat Show
+https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" tvg-country="INT" tvg-url="" group-title="International",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" tvg-url="" group-title="Music",V2BEAT TV
+https://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-country="DE" tvg-url="" group-title="Njemačka",a.tv
+http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Augsburg TV DE" tvg-name="Augsburg TV DE" tvg-language="German" tvg-logo="https://i.imgur.com/tupATym.png" tvg-country="DE" tvg-url="" group-title="Njemačka",a.tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Allgäu TV
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="AnixeHD.de" tvg-name="Anixe HD" tvg-language="German" tvg-logo="https://bit.ly/36NAZA1" tvg-country="DE" tvg-url="" group-title="Njemačka",Anixe HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://i.imgur.com/7wABSuo.png" tvg-country="DE" tvg-url="" group-title="Njemačka",ARD HD
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="Njemačka",ARD HD
+https://mcdn.daserste.de:443/daserste/de/master_3744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",BLK TV
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",BR FERNSEHEN
+https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
+#EXTINF:-1 tvg-id="BR Fernsehen Nord DE" tvg-name="BR Fernsehen Nord DE" tvg-language="German" tvg-logo="http://images.live-stream.tv/picons/br.png" tvg-country="DE" tvg-url="" group-title="",BR Fernsehen Nord
+http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://yt3.ggpht.com/-p6SxYHWfzPA/AAAAAAAAAAI/AAAAAAAAAAA/v8ceLuwU1Qg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",Campus TV Magdeburg
+http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-wernigerode_high/hasbahca.m3u8?bitrate=800
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Deutsche Welle English
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="deutsches-musik-fernsehen" tvg-language="German" tvg-logo="https://i.imgur.com/wUjgEUs.jpg" tvg-country="DE" tvg-url="" group-title="",Deutsches Musik Fernsehen
+https://tv.artcom-venture.de/dmf/tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/eJgCFh6.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Donau TV
+http://donautv.iptv-playoutcenter.de:1935/donautv/donautv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",dorf tv
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/IKslrJu.png" tvg-country="DE" tvg-url="" group-title="Njemačka",ELBEKANAL
+http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/oitJsZU.png" tvg-country="DE" tvg-url="" group-title="Njemačka",EOTV
+https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",ERF 1
+http://14000-l.z.core.cdn.streamfarm.net/007erfiphonelive/smil:stream_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",EWTN katholisches TV
+https://d3j0n5al39mfyd.cloudfront.net/p/GERG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/19iKLvf.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Filstalwelle
+http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/z42mYv9.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",Folx TV
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/q2QtEJO.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",Franken Fernsehen
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/iaXoYxb.png" tvg-country="DE" tvg-url="" group-title="Njemačka",H1
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/Ecrl44R.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Halle
+http://62.113.210.250/medienasa-live/tvhalle_high/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="",health.tv
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",HR Event 2
+https://hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",HR Fernsehen
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",HR Fernsehen
+https://live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HR HD DE" tvg-name="HR HD DE" tvg-language="German" tvg-logo="https://i.imgur.com/azkp7mB.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",HR HD
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="HSE24" tvg-language="German" tvg-logo="https://i.imgur.com/fnW0Pk8.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",HSE 24
+https://edge-1192-ch-gv.filmon.com/live/4727.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/W3bzWe2.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",HSE 24 Extra
+https://edge-1192-ch-gv.filmon.com/live/4730.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel eins" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/1200px-Kabel_eins_Logo_2015.svg.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Kabel eins
+http://188.35.9.5:10020/stolen/497b/hot.dll
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/kybSwK3.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Kiel TV
+https://live.oksh.de:8888/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="KIKA.de" tvg-name="KIKA" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/KiKA_HD.svg/2000px-KiKA_HD.svg.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Kika HD
+https://kika-lh.akamaihd.net/i/livetvkika_ww@72295/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/qskVMhF.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",M4TV
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/SEeqryT.png" tvg-country="DE" tvg-url="" group-title="Njemačka",MDF 1
+http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",München TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/67z7iRh.jpg" tvg-country="DE" tvg-url="" group-title="",München TV
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NDR DE" tvg-name="NDR DE" tvg-language="German" tvg-logo="https://i.imgur.com/UMaAaCW.png" tvg-country="DE" tvg-url="" group-title="Njemačka",NDR Fernsehen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",NDR Hamburg
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",NDR Mecklenburg-Vorpommern
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",NDR Schleswig-Holstein
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Noa 4 Hamburg
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/RkF2Kmx.png" tvg-country="DE" tvg-url="Njemačka" group-title="",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nrwision.png" tvg-country="DE" tvg-url="" group-title="Njemačka",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",oe24 TV
+https://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",OK-Stendal
+http://62.113.210.250/medienasa-live/ok-stendal_high/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Okto
+https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/K1hkyd7.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Oldenburg Eins
+http://oeins.de:1935/live/studio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",pearl.tv
+http://enstyle.cdn.ses-ps.com/index.m3u8
+#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png" tvg-country="DE" tvg-url="" group-title="Njemačka",Prosieben
+http://188.35.9.5:10020/stolen/496w/hot.dll
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-language="German" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/prosiebenmaxx/logo/prosiebenmaxx_ox__W1000xh0.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",Prosieben Maxx
+http://188.35.9.5:10020/stolen/500w/hot.dll
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/ubEUBmB.png" tvg-country="DE" tvg-url="" group-title="Music",Radio 21 TV
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/9pvCYaA.png" tvg-country="DE" tvg-url="" group-title="Music",Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/NUP8ZBb.png" tvg-country="DE" tvg-url="" group-title="Njemačka",RAN1 Regionalfernsehen
+http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/XTMWFx7.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",Regio TV Schwaben
+http://regiotv.iptv-playoutcenter.de:1935/regiotv/regiotv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",RFO
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="RNF.de" tvg-name="Rhein-Neckar Fernsehen" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Rhein Neckar Fernsehen
+http://rnf.iptv-playoutcenter.de:1935/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="rheinmaintv" tvg-language="German" tvg-logo="https://i.imgur.com/G7W4K3K.png" tvg-country="DE" tvg-url="Njemačka" group-title="",Rheinmain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/YkB39hx.png" tvg-country="DE" tvg-url="" group-title="Njemačka",RNF
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png" tvg-country="DE" tvg-url="" group-title="Njemačka",RTL
+http://5.135.92.133:52841/out/u/115_1.m3u8
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png" tvg-country="DE" tvg-url="" group-title="Njemačka",RTL Nitro
+http://188.35.9.5:10020/stolen/479d/hot.dll
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-language="German" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png" tvg-country="DE" tvg-url="" group-title="Njemačka",RTL Plus
+http://188.35.9.5:10020/stolen/480c/hot.dll
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/2000px-RTL2_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="Njemačka",RTL2
+http://5.135.92.133:52841/out/u/119_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/kn1DHZq.gif" tvg-country="DE" tvg-url="" group-title="Njemačka",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="" tvg-country="DE" tvg-url="" group-title="Njemačka",Tele M1 HD
+https://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-language="German" tvg-logo="http://www.yilmaztv.com/logo/wdr.png" tvg-country="DE" tvg-url="" group-title="Njemačka",WDR
+https://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR Fernsehen" tvg-language="German" tvg-logo="https://i.imgur.com/0Vt9dtg.png" tvg-country="DE" tvg-url="" group-title="Njemačka",WDR
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/smyvTHD.jpg" tvg-country="DE" tvg-url="" group-title="Njemačka",World Of Free Sports TV
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+
+
+
+
+
+
+
+
+
+
 
