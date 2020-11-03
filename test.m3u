@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:0 type="favorites" channelId="57" tvg-name="Discovery Channel (BR)" , Discovery Channel (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/159.ts
+#EXTINF:0 type="favorites" channelId="321" tvg-name="Boomerang (BR)" , Boomerang (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/165.ts
+#EXTINF:0 type="favorites" channelId="40" tvg-name="Cartoon Network (BR)" , Cartoon Network (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/5.ts
+#EXTINF:0 type="favorites" channelId="19" tvg-name="Disney (BR)" , Disney (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/149.ts
+#EXTINF:0 type="favorites" channelId="1198" tvg-name="Disney XD (BR)" , Disney XD (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/146.ts
+#EXTINF:0 type="favorites" channelId="67" tvg-name="TLC (BR)" , TLC (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/26.ts
+#EXTINF:0 type="favorites" channelId="1197" tvg-name="Disney Junior (PT)" , Disney Junior (PT)
+http://now.iptv.casa:25461/live/vip6549/33426/2085.ts
+#EXTINF:0 type="favorites" channelId="2505" tvg-name="Discovery Kids (BR)" , Discovery Kids (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/155.ts
+#EXTINF:0 type="favorites" channelId="341" tvg-name="Discovery Channel HD (BR)" , Discovery Channel HD (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/158.ts
+#EXTINF:0 type="favorites" channelId="2841" tvg-name="Discovery Civilization (BR)" , Discovery Civilization (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/157.ts
+#EXTINF:0 type="favorites" channelId="2724" tvg-name="Discovery Home & Health HD (BR)" , Discovery Home & Health HD (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/160.ts
+#EXTINF:0 type="favorites" channelId="58" tvg-name="Discovery Science (BR)" , Discovery Science (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/153.ts
+#EXTINF:0 type="favorites" tvg-name="Discovery Turbo HD (BR)" , Discovery Turbo HD (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/151.ts
+#EXTINF:0 type="favorites" channelId="1201" tvg-name="H2 (BR)" , H2 (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/113.ts
+#EXTINF:0 type="favorites" channelId="56" tvg-name="National Geographic (BR)" , National Geographic (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/80.ts
+#EXTINF:0 type="favorites" channelId="207" tvg-name="National Geographic HD (PT)" , National Geographic HD (PT)
+http://now.iptv.casa:25461/live/vip6549/33426/2079.ts
+#EXTINF:0 type="favorites" tvg-name="The History Channel HD (BR)" , The History Channel HD (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/27.ts
+#EXTINF:0 type="favorites" tvg-name="The History Channel (BR)" , The History Channel (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/28.ts
+#EXTINF:0 type="favorites" channelId="240" tvg-name="Animal Planet HD (BR)" , Animal Planet HD (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/175.ts
+#EXTINF:0 type="favorites" channelId="2892" , Globo HD
+dtv://antenna:20/dvb/10/1
+#EXTINF:0 type="favorites" channelId="2571" , SBT HD
+dtv://antenna:27/dvb/12/1
+#EXTINF:0 type="favorites" channelId="2581" tvg-name="Gloob (BR)" , Gloob (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/117.ts
+#EXTINF:0 type="favorites" tvg-name="Disney Jr (BR)" , Disney Jr (BR)
+http://now.iptv.casa:25461/live/vip6549/33426/147.ts
+#EXTINF:0 type="favorites" tvg-logo="https://www.thematv.com/medias/channels/gospel-music-tv/logo-gospel-music-tv.png" , gospel music
+http://stmv2.euroti.com.br:1935/gmusic/gmusic/live.m3u8
+#EXTINF:0 type="favorites" tvg-logo="https://listaiptvbrasil.com/logo/tvcidade.png" , SBT Piauí - TV Cidade Verde
+ http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/live.m3u8
