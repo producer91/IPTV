@@ -9,7 +9,6 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dSvUExH.png" tvg-country="CA" tvg-url="" group-title="",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/wwmapsS.png" tvg-country="CA" tvg-url="" group-title="",CPAC
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/HRqcIcR.png" tvg-country="CA" tvg-url="" group-title="",EMCI TV
