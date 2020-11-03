@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Nat Geo
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8
 #EXTINF:-1,CA | CBC Calgary
 http://fanproj.taajj-iptv.org:7899/123/123/89481
 #EXTINF:-1,CA | Ottawa
